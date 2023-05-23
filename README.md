@@ -1,5 +1,5 @@
 # This Vagrant file is based on Ubuntu 20
-Contains code to Install Docker for linux 
+Contains code to Install Docker for linux, 
 Below is the current error message when i run "vagrant up' >>>>>> 
 
 "The box you're attempting to add doesn't support the provider
